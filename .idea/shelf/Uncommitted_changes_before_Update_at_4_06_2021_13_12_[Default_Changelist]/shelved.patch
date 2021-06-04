@@ -1,0 +1,18 @@
+Index: app/src/main/java/com/mkaraca/udemy_androidprojem/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.mkaraca.udemy_androidprojem;\r\n\r\npublic class Main {\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/mkaraca/udemy_androidprojem/Main.java	(revision fd737948ebd2524bac0a485c06b8f4ae516c7c55)
++++ app/src/main/java/com/mkaraca/udemy_androidprojem/Main.java	(date 1622800492000)
+@@ -1,4 +1,8 @@
+ package com.mkaraca.udemy_androidprojem;
+ 
+ public class Main {
++    public static void main(String [ ] args){
++
++        System.out.println("Merhaba java");
++    }
+ }
