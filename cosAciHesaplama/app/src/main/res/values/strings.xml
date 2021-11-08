@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">deneme</string>
+    <string name="et_x1"></string>
+    <string name="et_y1"></string>
+    <string name="et_x2"></string>
+    <string name="et_y2"></string>
+    <string name="cbox_euc">euc</string>
+    <string name="cbox_cos">cos</string>
+    <string name="btn_hesap">hesapla</string>
+    <string name="twt_euc">eucM</string>
+    <string name="twt_cos">cosB</string>
+    <string name="twt_aci">aci</string>
+    <string name="twt_cosb">cosM</string>
+    <string name="btn_ydeger">yeniDeger</string>
+</resources>
