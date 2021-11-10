@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         findViewById<FrameLayout>(R.id.frame00).setOnClickListener{
             findViewById<FrameLayout>(R.id.frame00).visibility=View.INVISIBLE
+            findViewById<FrameLayout>(R.id.frame13).visibility=View.INVISIBLE
             findViewById<FrameLayout>(R.id.frame11).visibility=View.VISIBLE
             findViewById<FrameLayout>(R.id.frame12).visibility=View.VISIBLE
         }
